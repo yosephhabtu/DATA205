@@ -1,3 +1,3 @@
 # DATA205
-Project for DATA205 Capstone Experience in Data Science, Spring 2025, Montgomery College
+Project repository for DATA205 Capstone Experience in Data Science course at Montgomery College, Spring 2025
 
